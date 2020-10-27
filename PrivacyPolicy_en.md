@@ -20,3 +20,7 @@ Vroid Hub may use your personal information in accordance with the privacy polic
 
 ## Changes to This Privacy Policy
 This Privacy Policy is subject to change. If we do, we will notify you on the App Store page that the policy has been revised.
+
+## Contact us
+If you have any questions about this Privacy Policy, please contact us via Twitter or our GitHub issue below.
+[Twitter](https://twitter.com/kitututuk_games)
