@@ -4,9 +4,10 @@
 [Github Issue](https://github.com/Yukakiri0213/CharacterRecorderAR_issues/issues)
 
 ## for Instruction
-[Instruction(JP)](https://w.atwiki.jp/facetrackingar/?page=%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E5%85%A5%E3%82%8C%E6%96%B9%E8%A7%A3%E8%AA%AC)
+[Instruction(JP)](https://w.atwiki.jp/facetrackingar/pages/10.html)
 
 ## for Instruction(EN)
+[Instruction(EN)](https://w.atwiki.jp/facetrackingar/pages/11.html)
 
 
 ## Twitter
