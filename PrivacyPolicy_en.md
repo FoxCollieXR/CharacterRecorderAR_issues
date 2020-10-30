@@ -12,10 +12,13 @@ This application does not use the user's personal information.
 ## Provision of user information to third parties
 This Application does not provide users' personal information to third parties outside of this Application.
 
-## Personal information when linking to Vroid Hub
+## Personal information collection and Uses of Third party service
 This application can be connected to [Vroid Hub](https://hub.vroid.com/) for external retrieval of VRM models.
 Vroid Hub may use your personal information in accordance with the privacy policy in the following URLs.
 [Pixivプライバシーポリシー](https://policies.pixiv.net/#privacy)
+
+This Application uses third party software below to create, and can collect your personal information.
+ [Unity　Privacy Policy](https://unity3d.com/legal/privacy-policy)
 
 
 ## Changes to This Privacy Policy
