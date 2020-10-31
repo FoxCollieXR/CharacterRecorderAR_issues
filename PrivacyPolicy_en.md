@@ -1,5 +1,5 @@
 # Privacy Policy of AR Character Recorder
-Date:2020-10-27
+Changed:2020-10-31
 
 ## user information
 ARCharacterRecorder (referred to as "This application" below) does not collect any personal information from users.
@@ -19,6 +19,10 @@ Vroid Hub may use your personal information in accordance with the privacy polic
 
 This Application uses third party software below to create, and can collect your personal information.
  [Unity　Privacy Policy](https://unity3d.com/legal/privacy-policy)
+
+###True Depth API
+This application uses True Depth API for tracking users facemove and facial expressions and applying them to 3D VRM Avatars.
+This application does not store and share any data that was collected by True Depth API.
 
 
 ## Changes to This Privacy Policy
