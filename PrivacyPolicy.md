@@ -1,5 +1,5 @@
 # AR Character Recorderのプライバシーポリシー
-制定日:2020-10-27
+変更:2020-10-31
 
 ## 利用者情報の取得
 ARCharacterRecorder(以下本アプリ)が利用者の個人情報を取得することはありません。
@@ -20,6 +20,10 @@ Vroid Hubは以下のURL内のプライバシーポリシーに基づき、個�
 Unityは以下のプライバシーポリシーに基づき利用者の個人情報を収集することがあります。
  [Unity　Privacy Policy](https://unity3d.com/legal/privacy-policy)
  
+## True Depth API
+本アプリは、ユーザーの顔の動きおよび表情を認識しそれらをVRM3Dモデルで再現するにあたって、True Depth APIを利用しています。
+本アプリはTrue Depth APIを利用する際に得られたあらゆる情報について保存・第三者への提供を行うことはありません。
+
 
 ## 改定
 当プライバシーポリシーは改定されることがあります。改定にあたってはポリシーを改定した旨をApp Storeページにて通知いたします。
