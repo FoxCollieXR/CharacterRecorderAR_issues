@@ -1,5 +1,5 @@
 # AR Character Recorderのプライバシーポリシー
-変更:2020-10-31
+変更:2020-11-29
 
 ## 利用者情報の取得
 ARCharacterRecorder(以下本アプリ)が利用者の個人情報を取得することはありません。
@@ -12,10 +12,16 @@ ARCharacterRecorder(以下本アプリ)が利用者の個人情報を取得す�
 本アプリが利用者の個人情報を本アプリ以外の第三者へ提供することはありません。
 
 ## サードパーティーソフトウェアによる利用者情報の収集と利用
-###Vroid Hub
-本アプリはVRMモデルの外部からの取得用として、[Vroid Hub](https://hub.vroid.com/)との連携を可能としています。
+本アプリはVRMファイルの外部からの取得用として、[Vroid Hub](https://hub.vroid.com/)との連携を可能としています。
 Vroid Hubは以下のURL内のプライバシーポリシーに基づき、個人情報を利用することがあります。
 [Pixivプライバシーポリシー](https://policies.pixiv.net/#privacy)
+
+
+
+本アプリはVRMファイルの外部からの取得用として、[DMM VR Connect](https://connect.vrlab.dmm.com/)との連携を可能としています。
+Vroid Hubは以下のURL内のプライバシーポリシーに基づき、個人情報を利用することがあります。
+[個人データの処理方法に関するポリシー](https://connect.vrlab.dmm.com/support/privacy/)
+
 
 本アプリは作成するにあたってUnityを利用しております。
 Unityは以下のプライバシーポリシーに基づき利用者の個人情報を収集することがあります。
