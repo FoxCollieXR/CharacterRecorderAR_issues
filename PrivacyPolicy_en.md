@@ -1,5 +1,5 @@
 # Privacy Policy of AR Character Recorder
-Changed:2020-10-31
+Changed:2020-11-29
 
 ## user information
 ARCharacterRecorder (referred to as "This application" below) does not collect any personal information from users.
