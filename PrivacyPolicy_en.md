@@ -17,6 +17,12 @@ This application can be connected to [Vroid Hub](https://hub.vroid.com/) for ext
 Vroid Hub may use your personal information in accordance with the privacy policy in the following URLs.
 [Pixivプライバシーポリシー](https://policies.pixiv.net/#privacy)
 
+
+This application can be connected to [DMM VR Connect](https://connect.vrlab.dmm.com/) for external retrieval of VRM models.
+Vroid Hub may use your personal information in accordance with the privacy policy in the following URLs.
+[個人データの処理方法に関するポリシー](https://connect.vrlab.dmm.com/support/privacy/)
+
+
 This Application uses third party software below to create, and can collect your personal information.
  [Unity　Privacy Policy](https://unity3d.com/legal/privacy-policy)
 
